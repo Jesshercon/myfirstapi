@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Esta es mi primera aplicación de Backend con Node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesshercon/myfirstapi.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "javascript",
+    "rest"
+  ],
+  "author": "@jesshercon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jesshercon/myfirstapi/issues"
+  },
+  "homepage": "https://github.com/Jesshercon/myfirstapi#readme"
+}
